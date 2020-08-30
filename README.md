@@ -61,7 +61,7 @@ project/build/ ......... [ HTML5, CSS3 ]
 ## Work Experience
 
 ```
-Tax Support Spicialist "Nestle Ukraine LLC"
+Tax Support Specialist "Nestle Ukraine LLC"
 December 2018 - April 2020 | Lviv, Ukraine
 Execute daily activities and functions in tax
 liability/ tax credit of VAT administration
@@ -93,7 +93,7 @@ verication of the price structure
 ## Language
 
 ```
-English: Pre-intermediate (A2)
+English: Intermediate (B1)
 Russian: Mastery Level (C2)
 Ukraine: native
 ```
