@@ -21,8 +21,8 @@
     width: 370px;
   }
   .img {
-    width: 370px;
-    padding-top: 40px;
+    width: 100%;
+    /* padding-top: 40px; */
      
   }
   .about-me{
