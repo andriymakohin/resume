@@ -34,6 +34,7 @@
   .contacts {
     margin-left: 40px;
     margin-top: 60px;
+    margin-right: 15px;
     
   }
   .contacts-title{
@@ -141,6 +142,13 @@
     line-height: 24px;
     color: #6a6a6a;
   }
+
+  .technologies{
+    font-size: 15px;
+    color: #6a6a6a;
+    font-weight: 700;
+  }
+
   .work-experience{
     font-size: 22px;
     font-weight: 700;
